@@ -50,5 +50,5 @@ Curso combina elementos teóricos y prácticos para lograr el entendimiento de l
 [expo web]: https://expo.dev/
 
 <!---RESOURCES-->
-[syllabus course]: resources/docs/silabo-moviles-2023-2.docx
-[presentation week 1]: resources/docs/mobile-class-01.pdf
+[syllabus course]: https://github.com/urp-moviles-2023-2/.github/blob/main/resources/docs/silabo-moviles-2023-2.pdf
+[presentation week 1]: https://github.com/urp-moviles-2023-2/.github/blob/main/resources/docs/mobile-class-01.pdf
