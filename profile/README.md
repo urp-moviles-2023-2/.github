@@ -5,30 +5,6 @@ Curso combina elementos teóricos y prácticos para lograr el entendimiento de l
 
 🧙 Este repositorio sera utilizado para compartir, proyectos, laboratorios, tareas y código en clase.
 
-### 🍿 Semana 1: 21-08-2023 -- 27-8-2023 <---
-
-* 👨🏽‍🏫 [Silabus del curso][syllabus course]
-* 👨🏽‍🏫 [Presentación: Introducción a React Native][presentation week 1]
-* 👩‍💻 Links:
-  * [Página de Reac Native][react native web]
-  * [Setup de proyecto React Native][react native setup]
-  * [Componentes de React Native][react native components]
-  * [Expo WebPage][expo web]
-* 👩‍💻 Tareas / Laboratorios / Talleres:
-  * Tarea: Investigar las diferentes alternativas de desarrollo de aplicaciones móviles que permita tener un solo código y despliegue hacia plataformas iOS y Android.
-  * Alternativas (Si tiene otras opciones, incuirlo en la presentación):
-    * [Native Script](https://nativescript.org/)
-    * [React Native][react native web]
-    * [Flutter](https://flutter.dev/learn)
-    * [Kottin Multi-Plataforma](https://kotlinlang.org/docs/multiplatform.html)
-  * Criterios de Aceptación:
-    * Presentación breve con beneficios y desventajas de cada una de las alternativas.
-    * Responder la pregunta: Si fueses Responsable de Desarrollo de Aplicaciones Móviles de la empresa Pedidos Ya!! **¿Que alternativa optarias para cambiar la actual aplicación?**
-    * Subir presentación en aula virtual
-    * Discusión en clases
-    
-
-
 
 
 <!--
